@@ -4,9 +4,9 @@
 }
 
 /* hero background image */
-.bgimage {
+.bbgimage {
     height:100vh;
-    background: url('./images/heroimage.png');
+    background: url("./images/heroimage.png");
     background-size:contain;
     background-repeat: no-repeat;
     position:relative;
